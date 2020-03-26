@@ -35,7 +35,7 @@ Logical visual description of processing steps for workflow
 
 # Workflow development & optimisation
 
-## Pawsey process development
+## *Compute infrastructure name* process development
 
 ### Exemplar: e.g. *Genus species* reference genome
 
