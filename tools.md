@@ -38,23 +38,7 @@ Any notes on tagging conventions
 
 # Tool development & optimisation
 
-## *Compute infrastructure name* process development
-
-### Exemplar: e.g. *Genus species* reference genome
-
-#### Tutorial link
-
-#### How to access *Compute infrastructure name* and install tool
-
-Includes straightforward signing in to *Compute infrastructure name*
-
-#### Test your installation
-
-#### Tool optimisation at infrastructure
-
-#### Infrastructure utilisation metrics
-
-#### Freeform section
+## *Compute infrastructure name* optimisation (**LINK**)
 
 # Help / FAQ / Troubleshooting
 
