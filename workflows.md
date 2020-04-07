@@ -14,10 +14,7 @@ Logical visual description of processing steps for workflow
 
 # Tools
 
-|Tool | Link | Documentation |Input  |Parameters  | Output |
-|------|-------|--------|-------------|------------|--------------
-|E.g. Canu | [GitHub](https://github.com/marbl/canu), [bio.tools](https://bio.tools/canu), [BioContainers](https://biocontainers.pro/#/tools/canu)|
-|... | ... |
+E.g. [Canu documentation link]()
 
 # Tutorials 
 
