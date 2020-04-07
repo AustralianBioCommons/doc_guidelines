@@ -35,27 +35,9 @@ Logical visual description of processing steps for workflow
 
 # Workflow development & optimisation
 
-## *Compute infrastructure name* process development
+## *Compute infrastructure name* optimisation **LINK**
 
-### Exemplar: e.g. *Genus species* reference genome
-
-#### Tutorial link
-
-#### How to access *Compute infrastructure name* and install workflow
-
-Includes straightforward signing in to *Compute infrastructure name*
-
-#### Test your installation
-
-#### Workflow optimisation at infrastructure
-
-#### Infrastructure utilisation metrics
-
-#### Freeform section
-
-# Help / FAQ
-
-# Troubleshooting
+# Help / FAQ / Troubleshooting
 
 # Licence(s)
 
