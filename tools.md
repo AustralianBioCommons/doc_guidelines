@@ -56,9 +56,7 @@ Includes straightforward signing in to *Compute infrastructure name*
 
 #### Freeform section
 
-# Help / FAQ
-
-# Troubleshooting
+# Help / FAQ / Troubleshooting
 
 # Licence
 
