@@ -20,6 +20,10 @@ Which public registry (Biocontainers, Docker, ..)
 
 Any notes on tagging conventions
 
+# Third party tools links
+
+# Tutorials
+
 # Tool infrastructure requirements
 
 ## Scheduler
