@@ -3,8 +3,12 @@
 
 Introduction of tool, including:
 
-- Its inputs/outputs
+- Its input(s)/output(s)
 - List of available shell commands (useful when building interfaces/wrappers for containers)
+
+Or:
+
+- Link(s) to the available information / documentation
 
 # Diagram
 
