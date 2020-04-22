@@ -10,6 +10,14 @@ Or:
 
 - Link(s) to the available information / documentation
 
+## Link(s)
+
+## Inputs(s)
+
+## Parameter(s)
+
+## Output(s)
+
 # Diagram
 
 Logical visual description of processing steps for tool, e.g. for pipelines shipped as packages (Falcon, Cellranger, ..)
@@ -36,9 +44,7 @@ Any notes on tagging conventions
 
 # Tool Install
 
-# Tool development & optimisation
-
-## *Compute infrastructure name* optimisation (**LINK**)
+# *Compute infrastructure name* optimisation (**LINK**)
 
 # Help / FAQ / Troubleshooting
 
