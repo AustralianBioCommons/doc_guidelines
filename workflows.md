@@ -2,9 +2,17 @@
 
 Introduction of workflow and its component tools.
 
-1. *Tool #1*
-2. *Tool #2*
-3. *Tool #3*
+1. *Tool #1* - brief description
+2. *Tool #2* - brief description
+3. *Tool #3* - brief description
+
+Documentation structure:
+
+|Tool / workflow | Documentation | Optimisation |
+|-----------|--------------------------|------------------|
+|*Tool #1* | *Tool #1 documentation .md* | *Infrastructure optimisation .md for tool #1* |
+|*Tool #2* | *Tool #2 documentation .md* | *Infrastructure optimisation .md for tool #2* |
+|*Tool #3* | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |
 
 # Diagram
 
@@ -14,13 +22,17 @@ Logical visual description of processing steps for workflow
 
 # Tools
 
-E.g. [Canu documentation link]()
+1. *Tool #1*
+2. *Tool #2*
+3. *Tool #3*
 
 # Tutorials 
 
-# Third party tools links
+# Third party tools / dependencies
 
 # Workflow infrastructure requirements
+
+## Workflow manager
 
 ## Scheduler
 
@@ -30,9 +42,7 @@ E.g. [Canu documentation link]()
 
 # Workflow Install
 
-# Workflow development & optimisation
-
-## *Compute infrastructure name* optimisation **LINK**
+# *Compute infrastructure name* optimisation **LINK**
 
 # Help / FAQ / Troubleshooting
 
