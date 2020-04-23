@@ -18,6 +18,8 @@ Or:
 
 ## Output(s)
 
+## Container availability & engine
+
 # Diagram
 
 Logical visual description of processing steps for tool, e.g. for pipelines shipped as packages (Falcon, Cellranger, ..)
