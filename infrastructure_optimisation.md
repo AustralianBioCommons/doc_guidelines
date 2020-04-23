@@ -2,16 +2,18 @@
 
 ## Exemplar: e.g. *Genus species* reference genome assembly
 
-## Workflow tutorial specific to infrastructure
+## Tutorial specific to infrastructure
 
-## How to access *Compute infrastructure name* and install workflow
+## How to access *Compute infrastructure name* 
 
 Includes straightforward signing in to *Compute infrastructure name*
 
-## Test your installation
+## How to install or access tool/workflow
 
-## Workflow optimisation at infrastructure
+## Test existing or new installation
 
-## Infrastructure utilisation metrics
+## Optimisation required at infrastructure
+
+## Infrastructure usage metrics
 
 ## Freeform section
