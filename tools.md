@@ -12,7 +12,7 @@ Or:
 
 ## Link(s)
 
-## Inputs(s)
+## Input(s)
 
 ## Parameter(s)
 
@@ -32,7 +32,7 @@ Which public registry (Biocontainers, Docker, ..)
 
 Any notes on tagging conventions
 
-# Third party tools links
+# Third party tools / dependencies
 
 # Tutorials
 
