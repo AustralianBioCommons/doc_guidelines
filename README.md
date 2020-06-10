@@ -6,10 +6,8 @@ The initial version uploaded to GitHub was informed by current documentation pra
 
 These guidelines will be further developed as needed to meet the requirements of the Australian BioCommons community.
 
-See the following link to access the [tools template](docs/tools.md).
+See the following links to access the guideline templates:
 
-
-### Find us
-
-Github: https://github.com/AustralianBioCommons/documentation_guidelines
-
+1. [tools](docs/tools.md)
+2. [workflows](docs/workflows.md)
+3. [infrastructure optimisation](docs/infrastructure_optimisation.md)
