@@ -1,6 +1,6 @@
 # *Tool name*
 
-## [*Main repository README*](README.md)
+## [*Main repository README*](https://australianbiocommons.github.io/documentation_guidelines/)
 
 ## Description
 
