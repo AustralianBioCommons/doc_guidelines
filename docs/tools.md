@@ -1,5 +1,8 @@
+# *Tool name*
 
-# Description
+## [*Main repository README*](/README.md)
+
+## Description
 
 Introduction of tool, including:
 
@@ -10,46 +13,46 @@ Or:
 
 - Link(s) to the available information / documentation
 
-## Link(s)
+### Link(s)
 
-## Input(s)
+### Input(s)
 
-## Parameter(s)
+### Parameter(s)
 
-## Output(s)
+### Output(s)
 
-## Container availability & engine
+### Container availability & engine
 
-# Diagram
+## Diagram
 
 Logical visual description of processing steps for tool, e.g. for pipelines shipped as packages (Falcon, Cellranger, ..)
 
-# Version notes
+## Version notes
 
 Any comment on major features being introduced, or default/API changes that might result in unexpected behaviours.
 
-## Containerised version(s)
+### Containerised version(s)
 
 Which public registry (Biocontainers, Docker, ..)
 
 Any notes on tagging conventions
 
-# Third party tools / dependencies
+## Third party tools / dependencies
 
-# Tutorials
+## Tutorials
 
-# Tool infrastructure requirements
+## Tool infrastructure requirements
 
-## Scheduler
+### Scheduler
 
-## Hardware
+### Hardware
 
-# Tool Install
+## Tool Install
 
-# *Compute infrastructure name* optimisation (**LINK**)
+## *Compute infrastructure name* optimisation (**LINK**)
 
-# Help / FAQ / Troubleshooting
+## Help / FAQ / Troubleshooting
 
-# Licence
+## Licence
 
-# Acknowledgements / citations / credits
+## Acknowledgements / citations / credits
