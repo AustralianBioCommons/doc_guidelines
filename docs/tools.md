@@ -1,6 +1,6 @@
 # *Tool name*
 
-## [*Main repository README*](/README.md)
+## [*Main repository README*](README.md)
 
 ## Description
 
