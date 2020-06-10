@@ -11,3 +11,5 @@ See the following links to access the guideline templates:
 1. [tools](docs/tools.md)
 2. [workflows](docs/workflows.md)
 3. [infrastructure optimisation](docs/infrastructure_optimisation.md)
+
+[GitHub Pages link for this repository](https://australianbiocommons.github.io/documentation_guidelines/).
