@@ -6,6 +6,8 @@ The initial version uploaded to GitHub was informed by current documentation pra
 
 These guidelines will be further developed as needed to meet the requirements of the Australian BioCommons community.
 
+See the following link to access the [tools template](docs/tools.md).
+
 
 ### Find us
 
