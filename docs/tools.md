@@ -1,7 +1,5 @@
 # *Tool name*
 
-## [*Main repository README*](https://australianbiocommons.github.io/documentation_guidelines/)
-
 ## Description
 
 Introduction of tool, including:
@@ -21,8 +19,6 @@ Or:
 
 ### Output(s)
 
-### Container availability & engine
-
 ## Diagram
 
 Logical visual description of processing steps for tool, e.g. for pipelines shipped as packages (Falcon, Cellranger, ..)
@@ -31,7 +27,7 @@ Logical visual description of processing steps for tool, e.g. for pipelines ship
 
 Any comment on major features being introduced, or default/API changes that might result in unexpected behaviours.
 
-### Containerised version(s)
+### Container availability & engine
 
 Which public registry (Biocontainers, Docker, ..)
 
