@@ -30,7 +30,7 @@ Logical visual description of processing steps for workflow
 
 Table with embedded Compute infrastructure name optimisation -> "HPC-HTC" column
 
-| Tool/WF | Version | Group | Organism name | Genus species | Genome size (GB) | Hours required | Cores | Peak RAM in GB (requested) | Drive (GB) | HPC-HTC | Month-Year |
+| Workflow | Version | Group | Sample name (e.g. organism) | Other sample detail (e.g. *Genus species*) | Other sample detail (e.g. genome size (GB)) | Hours required | Cores | Peak RAM in GB (requested) | Drive (GB) | HPC-HTC | Month-Year |
 |---------|---------|-------|---------------|---------------|------------------|----------------|-------|----------------------------|---------------|---------|------------|
 |||||||||||||
 
