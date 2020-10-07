@@ -2,47 +2,41 @@
 
 Introduction of workflow and its component tools.
 
-1. *Tool #1* - brief description
-2. *Tool #2* - brief description
-3. *Tool #3* - brief description
+Table with embedded registry links.
 
-Documentation structure:
+| Workflow element | GitHub | bio.tools | BioContainers | bioconda |
+|-------------|:--------:|:--------:|:--------:|:--------:|
+|Tool #1 |[&#9679;]()|[&#9679;]()|[&#9679;]()|[&#9679;]()|
 
-|Tool / workflow | Documentation | Optimisation |
-|-----------|--------------------------|------------------|
-|*Tool #1* | *Tool #1 documentation .md* | *Infrastructure optimisation .md for tool #1* |
-|*Tool #2* | *Tool #2 documentation .md* | *Infrastructure optimisation .md for tool #2* |
-|*Tool #3* | *Tool #3 documentation .md* | *Infrastructure optimisation .md for tool #3* |
+## Required (minimum) inputs/parameters
+
+## Third party tools / dependencies
 
 # Diagram
 
 Logical visual description of processing steps for workflow
 
-# Releases
+# Usage
 
-# Tools
+## Summary
 
-1. *Tool #1*
-2. *Tool #2*
-3. *Tool #3*
+| Workflow Tool | Version | Scheduler | Workflow manager | Container | Install method |
+|---------------|---------|-----------|------------------|-----------|----------------|
+|||||||
+
+## High level resource usage
+
+Table with embedded Compute infrastructure name optimisation -> "HPC-HTC" column
+
+| Tool/WF | Version | Group | Organism name | Genus species | Genome size (GB) | Hours required | Cores | Peak RAM in GB (requested) | Drive (GB) | HPC-HTC | Month-Year |
+|---------|---------|-------|---------------|---------------|------------------|----------------|-------|----------------------------|---------------|---------|------------|
+|||||||||||||
+
+## Additional notes
+
+# Install
 
 # Tutorials 
-
-# Third party tools / dependencies
-
-# Workflow infrastructure requirements
-
-## Workflow manager
-
-## Scheduler
-
-## Container engine
-
-## Hardware
-
-# Workflow Install
-
-# *Compute infrastructure name* optimisation **LINK**
 
 # Help / FAQ / Troubleshooting
 
