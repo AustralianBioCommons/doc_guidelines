@@ -34,8 +34,8 @@ Logical visual description of processing steps for tool, e.g. for pipelines ship
 Table with embedded Compute infrastructure name optimisation -> "HPC-HTC" column
 
 | Version | Group | Sample name (e.g. organism) | Other sample detail (e.g. *Genus species*) | Other sample detail (e.g. genome size (GB)) | Hours required | Cores | Peak RAM in GB (requested) | Drive (GB) | HPC-HTC | Month-Year |
-|---------|---------|-------|---------------|---------------|------------------|----------------|-------|----------------------------|---------------|---------|------------|
-|||||||||||||
+|---------|---------|-------|---------------|---------------|------------------|----------------|-------|----------------------------|---------------|---------|
+||||||||||||
 
 ## Additional notes
 
