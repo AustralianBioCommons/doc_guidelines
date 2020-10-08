@@ -1,17 +1,19 @@
-# *Compute infrastructure name* optimisation **LINK FROM TOOL.md or WORKFLOW.md**
+# *Tool/workflow name* on *HPC/HTC* @ *Compute infrastructure name*
 
-## Exemplar: e.g. *Genus species* reference genome assembly
+## Accessing tool/workflow
 
-## Workflow tutorial specific to infrastructure
+Includes straightforward signing in to *HPC/HTC*
 
-## How to access *Compute infrastructure name* and install workflow
+## Quickstart tutorial
 
-Includes straightforward signing in to *Compute infrastructure name*
+## Optimisation required
 
-## Test your installation
+## Infrastructure usage and benchmarking
 
-## Workflow optimisation at infrastructure
+### Summary
 
-## Infrastructure utilisation metrics
+### Exemplar 1: e.g. *Genus species* reference genome assembly
 
-## Freeform section
+### Exemplar 2: e.g. *Genus species* reference genome assembly
+
+## Acknowledgements / citations / credits
