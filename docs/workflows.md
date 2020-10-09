@@ -22,8 +22,8 @@ Logical visual description of processing steps for workflow
 
 ## Summary
 
-| Workflow Tool | Version | Scheduler | Workflow manager | Container | Install method |
-|---------------|---------|-----------|------------------|-----------|----------------|
+| Workflow Tool | Version | Infrastructure | Scheduler | Workflow manager | Container | Install method |
+|---------------|---------|-----------|-----------|------------------|-----------|----------------|
 |||||||
 
 ## High level resource usage
