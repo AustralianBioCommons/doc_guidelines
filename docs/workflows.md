@@ -1,4 +1,5 @@
-# Workflow name
+Workflow name
+===========
 
 ## Description
 
