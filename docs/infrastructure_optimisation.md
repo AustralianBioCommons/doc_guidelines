@@ -1,19 +1,20 @@
-# *Tool/workflow name* on *HPC/HTC* @ *Compute infrastructure name*
+*Tool/workflow name* on *HPC/HTC* @ *Compute infrastructure name*
+===========
 
-## Accessing tool/workflow
+# Accessing tool/workflow
 
 Includes straightforward signing in to *HPC/HTC*
 
-## Quickstart tutorial
+# Quickstart tutorial
 
-## Optimisation required
+# Optimisation required
 
-## Infrastructure usage and benchmarking
+# Infrastructure usage and benchmarking
 
-### Summary
+## Summary
 
-### Exemplar 1: e.g. *Genus species* reference genome assembly
+## Exemplar 1: e.g. *Genus species* reference genome assembly
 
-### Exemplar 2: e.g. *Genus species* reference genome assembly
+## Exemplar 2: e.g. *Genus species* reference genome assembly
 
-## Acknowledgements / citations / credits
+# Acknowledgements / citations / credits
