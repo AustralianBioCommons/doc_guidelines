@@ -1,4 +1,5 @@
-# *Tool name*
+*Tool name*
+==========
 
 ## Description
 
@@ -41,12 +42,12 @@ Table with embedded Compute infrastructure name optimisation -> "HPC-HTC" column
 
 Any comment on major features being introduced, or default/API changes that might result in unexpected behaviours.
 
-## Install
+# Install
 
-## Tutorials
+# Tutorials
 
-## Help / FAQ / Troubleshooting
+# Help / FAQ / Troubleshooting
 
-## Licence
+# Licence
 
-## Acknowledgements / citations / credits
+# Acknowledgements / citations / credits
