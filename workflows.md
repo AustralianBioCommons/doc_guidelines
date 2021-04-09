@@ -43,9 +43,6 @@ Example below
 |Tool 2 |	See workflow version | workflow_name |
 |Tool 3 |	See workflow version | workflow_name |
 
-| Workflow element | GitHub | bio.tools | BioContainers | bioconda |
-|Tool #1 |[&#9679;]()|[&#9679;]()|[&#9679;]()|[&#9679;]()|
-
 ## Required (minimum) inputs/parameters
 
 ```
