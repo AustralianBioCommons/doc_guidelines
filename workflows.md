@@ -1,48 +1,120 @@
-Workflow name
+[workflow name]
 ===========
 
-## Description
+---
 
+# Description
+
+```
 Introduction of workflow and its component tools.
 
 Table with embedded registry links.
+```
+
+## Workflow summary
+
+```
+Example table below 
+```
+|metadata field     | workflow_name / workflow_version  |
+|-------------------|:---------------------------------:|
+|Version            | workflow_version                  |
+|Maturity           | stable                            |
+|Creators           | workflow_author_1                 |
+|Source             | NA                                |
+|License            | NA                                |
+|Workflow manager   | NextFlow                          |
+|Container          | None                              |
+|Install method     | Manual                            |
+|GitHub             | NA                                |
+|bio.tools 	        | NA                                |
+|BioContainers      | NA                                | 
+|bioconda           | NA                                |
+
+## Component tools
+
+```
+Example below 
+```
+
+| Workflow element | Workflow element version | Workflow title |
+|-------------|:--------:|:--------:|
+|Tool 1 | See workflow version | workflow_name |
+|Tool 2 |	See workflow version | workflow_name |
+|Tool 3 |	See workflow version | workflow_name |
 
 | Workflow element | GitHub | bio.tools | BioContainers | bioconda |
-|-------------|:--------:|:--------:|:--------:|:--------:|
 |Tool #1 |[&#9679;]()|[&#9679;]()|[&#9679;]()|[&#9679;]()|
 
 ## Required (minimum) inputs/parameters
 
+```
+The minimum inputs required for the workflow to run.
+```
+
 ## Third party tools / dependencies
+
+```
+Any dependencies should be noted here
+```
+
+---
 
 # Diagram
 
+```
 Logical visual description of processing steps for workflow
+```
 
-# Usage
+---
 
-## Summary
+# Infrastructure specific documentation & testing
 
-| Workflow Tool | Version | Infrastructure | Scheduler | Workflow manager | Container | Install method |
-|---------------|---------|-----------|-----------|------------------|-----------|----------------|
-|||||||
+## High level compute resource usage
 
-## High level resource usage
+```
+Table with high level compute resource usage information for specific versions and infrastructures.
+```
 
-Table with embedded Compute infrastructure name optimisation -> "HPC-HTC" column
+| Title |	Version | Sample description | Wall time | Cores | Peak RAM in GB (requested) |	Drive (GB) | HPC-HTC | If HPC-HTC is other, specify | Scheduler |	Year-Month |
+|-------|---------|--------------------|-----------|-------|-------|-------|-------|-------|-------|-------|
+||||||||||||
 
-| Workflow | Version | Group | Sample name (e.g. organism) | Other sample detail (e.g. *Genus species*) | Other sample detail (e.g. genome size (GB)) | Hours required | Cores | Peak RAM in GB (requested) | Drive (GB) | HPC-HTC | Month-Year |
-|---------|---------|-------|---------------|---------------|------------------|----------------|-------|----------------------------|---------------|---------|------------|
-|||||||||||||
+## Infrastructure specific install, usage & optimisation
 
-## Additional notes
+```
+Instructions for a specific infrastructure should go into a infrastructure documentation template
+https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructure_optimisation.md
+```
 
-# Install
+# Benchmarking
 
-# Tutorials 
+```
+Benchmarking for a specific infrastructure should go into a 30_benchmarking_[benchmarking-activity-name].md template. 
+
+Currently in development!!!
+```
+
+---
+
+# Additional notes
+
+---
 
 # Help / FAQ / Troubleshooting
 
+## 3rd party Tutorials 
+
+---
+
 # Licence(s)
 
+---
+
 # Acknowledgements / citations / credits
+
+```
+Any attribution information that is relevant to the workflow being documented.
+```
+
+---
