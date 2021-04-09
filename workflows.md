@@ -87,7 +87,7 @@ https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructur
 # Benchmarking
 
 ```
-Benchmarking for a specific infrastructure should go into a 30_benchmarking_[benchmarking-activity-name].md template. 
+Benchmarking for a specific infrastructure should go into a benchmarking template. 
 
 Currently in development!!!
 ```
