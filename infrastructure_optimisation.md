@@ -37,26 +37,6 @@ Were any optimisations required that were specific to the HPC / HTC infrastructu
 
 ---
 
-# Infrastructure usage and benchmarking
-
----
-
-## Summary
-
-## Exemplar 1: e.g. *Genus species* reference genome assembly
-
-```
-Any exemplar notes, or benchmarking, can be documented here.
-```
-
-## Exemplar 2: e.g. *Genus species* reference genome assembly
-
-```
-Any exemplar notes, or benchmarking, can be documented here.
-```
-
----
-
 # Acknowledgements / citations / credits
 
 ```
