@@ -113,13 +113,11 @@ Example table below
 ```
 Example below 
 ```
-
-| Workflow element/tool name | Workflow element/tool version | Workflow title |
-|-------------|:--------:|:--------:|
-|Tool 1 | See workflow version | workflow_title |
-|Tool 2 |	See workflow version | workflow_title |
-|Tool 3 |	See workflow version | workflow_title |
-
+| Workflow element/tool name | Workflow element/tool version | Workflow element/tool dependencies | Workflow title |
+|--------------------------|-----------------------------|----------------------------------|----------------|
+|Tool 1                    |See workflow version         |Dependency/version                |workflow_title  |
+|Tool 2                    |See workflow version         |Dependency/version                |workflow_title  |
+|Tool 3                    |See workflow version         |Dependency/version                |workflow_title  |
 ---
 
 ## Required (minimum) inputs/parameters
