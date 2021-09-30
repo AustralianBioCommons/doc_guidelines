@@ -48,8 +48,8 @@ The BioCommons would also like to acknowledge the contributions of the following
 - Sarah Beecroft (Pawsey Supercomputing Centre) [@SarahBeecroft](https://github.com/SarahBeecroft)
 - Matthew Downton (National Computational Infrastructure) [@mattdton](https://github.com/mattdton)
 - Richard Edwards (University of New South Wales) [@cabbagesofdoom](https://github.com/cabbagesofdoom)
-- Tracy Chew (University of Sydney) @tracychew
-- Georgina Samaha (University of Sydney) @georgiesamaha
+- Tracy Chew (University of Sydney) [@tracychew](https://github.com/tracychew)
+- Georgina Samaha (University of Sydney) [@georgiesamaha](https://github.com/georgiesamaha)
 
 
 
