@@ -132,7 +132,7 @@ The minimum inputs required for the workflow to run.
 
 ---
 
-# Help/FAQ/Troubleshooting
+# Help / FAQ / Troubleshooting
 
 ---
 
@@ -140,7 +140,7 @@ The minimum inputs required for the workflow to run.
 
 ---
 
-# Licence(s)
+# License(s)
 
 ---
 
