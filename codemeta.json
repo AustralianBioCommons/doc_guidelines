@@ -31,6 +31,78 @@
                 "@type": "Organization",
                 "name": "Australian BioCommons, University of Melbourne"
             }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Brian",
+            "familyName": "Davis",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "National Computational Infrastructure (NCI)"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Marco",
+            "familyName": "de la Pierre",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Pawsey Supercomputing Centre"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Audrey",
+            "familyName": "Stott",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Pawsey Supercomputing Centre"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Sarah",
+            "familyName": "Beecroft",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Pawsey Supercomputing Centre"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Matthew",
+            "familyName": "Downton",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "National Computational Infrastructure (NCI)"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Richard ",
+            "familyName": "Edwards",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of New South Wales"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Tracy",
+            "familyName": "Chew",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Sydney"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Georgina",
+            "familyName": "Samaha",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Sydney"
+            }
         }
     ]
 }
