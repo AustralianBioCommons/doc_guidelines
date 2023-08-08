@@ -1,3 +1,10 @@
+
+###########################################################################################################
+### This is an example CITATION.cff file completed for the documentation guidelines template repository ###
+###########################################################################################################
+### You can create your own using the blank template provided at the bottom of this file"
+### Simply remove the "#" and complete each field provided: for more information please see Druskat, S., Spaaks, J. H., Chue Hong, N., Haines, R., Baker, J., Bliven, S., Willighagen, E., Pérez-Suárez, D., & Konovalov, O. (2021). Citation File Format (Version 1.2.0) [Computer software]. https://doi.org/10.5281/zenodo.5171937
+
 cff-version: 0.0.1
 message: "If you use these documentation guidelines, please cite as below."
 authors:
@@ -29,6 +36,22 @@ authors:
     given-names: Georgina
     orcid:  https://orcid.org/0000-0003-0419-1476
 title: "Australian BioCommons Documentation Guidelines"
-version: 1.4.0
+version: 1.5.0
 doi:
-date-released: 2022-05-25
+date-released: 2023-MM-DD
+
+
+###################################
+### Blank template CITATION.cff ###
+###################################
+
+#cff-version: 0.0.0
+#message: "Please cite as below."
+#authors:
+#  - family-names: [family name goes here]
+#    given-names: [given names go here]
+#    orcid: [ORCID goes here]
+#title: "Title of repository goes here"
+#version: 0.0.0
+#doi: [DOI goes here]
+#date-released: YYYY-MM-DD

@@ -1,0 +1,108 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "codeRepository": "https://github.com/AustralianBioCommons/doc_guidelines",
+    "dateCreated": "2020-03-27",
+    "datePublished": "2022-05-25",
+    "dateModified": "2023-08-08",
+    "issueTracker": "https://github.com/AustralianBioCommons/doc_guidelines/issues",
+    "name": "Australian BioCommons documentation guidelines",
+    "version": "1.5",
+    "description": "Template repository containing a set of guidelines for documenting bioinformatics software (e.g. tools and workflows).",
+    "applicationCategory": "Bioinformatics",
+    "funder": {
+        "@type": "Organization",
+        "name": "Bioplatforms Australia, NCRIS, Queensland Government RICF programme"
+    },
+    "keywords": [
+        "Documentation",
+        "template",
+        "FAIR"
+    ],
+    "contributor": [
+        {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-2977-5032",
+            "givenName": "Johan",
+            "familyName": "Gustafsson",
+            "email": "johan@biocommons.org.au",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Australian BioCommons, University of Melbourne"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Brian",
+            "familyName": "Davis",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "National Computational Infrastructure (NCI)"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Marco",
+            "familyName": "de la Pierre",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Pawsey Supercomputing Centre"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Audrey",
+            "familyName": "Stott",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Pawsey Supercomputing Centre"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Sarah",
+            "familyName": "Beecroft",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Pawsey Supercomputing Centre"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Matthew",
+            "familyName": "Downton",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "National Computational Infrastructure (NCI)"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Richard ",
+            "familyName": "Edwards",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of New South Wales"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Tracy",
+            "familyName": "Chew",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Sydney"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Georgina",
+            "familyName": "Samaha",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Sydney"
+            }
+        }
+    ]
+}
