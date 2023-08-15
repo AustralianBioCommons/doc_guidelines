@@ -57,9 +57,9 @@ https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructur
 
 > Table with high level compute resource usage information for standalone runs or testing of specific versions on specific computational infrastructures.
 
-| Title | Version | Sample description | Wall time | Cores | Peak RAM in GB (requested) | Drive (GB) | HPC-HTC | If HPC-HTC is other, specify | Scheduler | Year-Month |
-| ----- | ------- | ------------------ | --------- | ----- | -------------------------- | ---------- | ------- | ---------------------------- | --------- | ---------- |
-|       |         |                    |           |       |                            |            |         |                              |           |            |
+| Title | Version | Sample description | Wall time | Cores | Peak RAM in GB (requested) | Drive (GB) | HPC-HTC e.g. Pawsey Setonix |  Scheduler | Year-Month |
+| ----- | ------- | ------------------ | --------- | ----- | -------------------------- | ---------- | ------- | --------- | ---------- |
+|       |         |                    |           |       |                            |            |         |           |           |
 
 
 ### Benchmarking
