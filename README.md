@@ -18,7 +18,7 @@ You can use this repository as:
 
 > **If you use these guidelines, please cite this work :)**
 > 
-> Gustafsson, J., Davis, B., de la Pierre, M., Stott, A., Beecroft, S., Downton, M., Edwards, R., Chew, T., & Samaha, G. (2023). Australian BioCommons Documentation Guidelines (Version 1.5.0) [Computer software]
+> Gustafsson, J., Davis, B., de la Pierre, M., Stott, A., Beecroft, S., Downton, M., Edwards, R., Chew, T., Samaha, G., & Al Bkhetan, Z. (2023). Australian BioCommons Documentation Guidelines (Version 1.5.0) [Computer software]
 
 
 ## Quick start guide (using repository as a template)
@@ -62,30 +62,41 @@ These are the current templates that are available in `documentation_templates/`
 
 The files that we recommend you always include are detailed below.
 
-| File | Purpose  | What you need to do!                                                                                                                                                                                     |
-|------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|LICENSE.md| The license that indicates how someone can reuse your software or project. | Select a license (https://choosealicense.com/) and copy the license text into this file.                                                                                                                 |
-|CHANGE_LOG.md| A log of the changes made for each version / release. | Update this file when you make changes to your software or project.    |
-|CITATION.cff| A standard file type that indicates how someone should cite your software or project. | Update this file with the citation metadata for your software or project. GitHub will auto-detect this file and create a citation export option for you.                                                   |
+| File | Purpose  | What you need to do!                                                                                                                                                                                                                                            |
+|------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|LICENSE.md| The license that indicates how someone can reuse your software or project. | Select a license (https://choosealicense.com/) and copy the license text into this file.                                                                                                                                                                        |
+|CHANGE_LOG.md| A log of the changes made for each version / release. | Update this file when you make changes to your software or project.                                                                                                                                                                                             |
+|CITATION.cff| A standard file type that indicates how someone should cite your software or project. | Update this file with the citation metadata for your software or project. GitHub will auto-detect this file and create a citation export option for you. You can easily generate your own `CITATION.cff` using this resource https://citation-file-format.github.io/cff-initializer-javascript/#/ |
 
 
 ### 3. Update the optional but useful file(s)
 
 This folder contains useful files that you can include in your repository.
 
-`codemeta.json`: this is a standard metadata file type from the [CodeMeta Project](https://codemeta.github.io/). You can easily generate your own `codemeta.json` using this resource https://codemeta.github.io/create/
- 
+- `codemeta.json`: this is a standard metadata file type from the [CodeMeta Project](https://codemeta.github.io/). You can easily generate your own `codemeta.json` using this resource: https://codemeta.github.io/create/
+
 
 ### 4. Delete files and directories you do not need
 
 These are guidelines only, and that means you can modify, update or delete elements of the file and directory structure to suit your specific use case.
 
 
+### 5. Register your software
+
+Below are some suggestions for where to register, based on the type of software you have created.
+
+#### Tools
+- [bio.tools](https://bio.tools/)
+
+#### Workflows
+- [WorkflowHub](https://workflowhub.eu/)
+- [Dockstore](https://dockstore.org/)
+
 ## Citing this repository
 
 > If you use this template repository, or any of its documentation elements, please use the following citation:
 > 
-> Gustafsson, J., Davis, B., de la Pierre, M., Stott, A., Beecroft, S., Downton, M., Edwards, R., Chew, T., & Samaha, G. (2023). Australian BioCommons Documentation Guidelines (Version 1.5.0) [Computer software]
+> Gustafsson, J., Davis, B., de la Pierre, M., Stott, A., Beecroft, S., Downton, M., Edwards, R., Chew, T., Samaha, G., & Al Bkhetan, Z. (2023). Australian BioCommons Documentation Guidelines (Version 1.5.0) [Computer software]
 
 
 ## Contributing
@@ -100,25 +111,28 @@ Anyone is welcome to contribute to these documentation guidelines in the followi
 
 # Acknowledgements & attributions
 
-The guideline template is supported by the Australian BioCommons via Bioplatforms Australia funding, the Australian Research Data Commons (https://doi.org/10.47486/PL105) and the Queensland Government RICF programme. Bioplatforms Australia and the Australian Research Data Commons are enabled by the National Collaborative Research Infrastructure Strategy (NCRIS).
+The documentation guidelines template repository is supported by the Australian BioCommons via Bioplatforms Australia funding, the Australian Research Data Commons (https://doi.org/10.47486/PL105) and the Queensland Government RICF programme. Bioplatforms Australia and the Australian Research Data Commons are enabled by the National Collaborative Research Infrastructure Strategy (NCRIS).
 
 The BioCommons would also like to acknowledge the contributions of the following individuals and institutions to these documentation guidelines:
 
-- Johan Gustafsson (Australian BioCommons, University of Melbourne) [@supernord](https://github.com/supernord)
-- Brian Davis (National Computational Infrastructure) [@Davisclan](https://github.com/Davisclan)
-- Marco de la Pierre (Pawsey Supercomputing Centre) [@marcodelapierre](https://github.com/marcodelapierre)
-- Audrey Stott (Pawsey Supercomputing Centre) [@audreystott](https://github.com/audreystott)
-- Sarah Beecroft (Pawsey Supercomputing Centre) [@SarahBeecroft](https://github.com/SarahBeecroft)
-- Matthew Downton (National Computational Infrastructure) [@mattdton](https://github.com/mattdton)
-- Richard Edwards (University of New South Wales) [@cabbagesofdoom](https://github.com/cabbagesofdoom)
-- Tracy Chew (University of Sydney) [@tracychew](https://github.com/tracychew)
-- Georgina Samaha (University of Sydney) [@georgiesamaha](https://github.com/georgiesamaha)
+- **Johan Gustafsson** (Australian BioCommons, University of Melbourne) [@supernord](https://github.com/supernord)
+- **Brian Davis** (National Computational Infrastructure) [@Davisclan](https://github.com/Davisclan)
+- **Marco de la Pierre** (Pawsey Supercomputing Centre) [@marcodelapierre](https://github.com/marcodelapierre)
+- **Audrey Stott** (Pawsey Supercomputing Centre) [@audreystott](https://github.com/audreystott)
+- **Sarah Beecroft** (Pawsey Supercomputing Centre) [@SarahBeecroft](https://github.com/SarahBeecroft)
+- **Matthew Downton** (National Computational Infrastructure) [@mattdton](https://github.com/mattdton)
+- **Richard Edwards** (University of New South Wales) [@cabbagesofdoom](https://github.com/cabbagesofdoom)
+- **Tracy Chew** (University of Sydney) [@tracychew](https://github.com/tracychew)
+- **Georgina Samaha** (University of Sydney) [@georgiesamaha](https://github.com/georgiesamaha)
+- **Ziad Al Bkhetan** (Australian BioCommons, University of Melbourne) [@ziadbkh](https://github.com/ziadbkh)
 
 
 # Citations
 
 - Druskat, S., Spaaks, J. H., Chue Hong, N., Haines, R., Baker, J., Bliven, S., Willighagen, E., Pérez-Suárez, D., & Konovalov, O. (2021). Citation File Format (Version 1.2.0) [Computer software]. https://doi.org/10.5281/zenodo.5171937
-- Jon Ison and others, Tools and data services registry: a community effort to document bioinformatics resources, Nucleic Acids Research, Volume 44, Issue D1, 4 January 2016, Pages D38–D47, https://doi.org/10.1093/nar/gkv1116
+- Spaaks, J. H., Verhoeven, S., Diblen, F., Druskat, S., Soares Siqueira, A., Garcia Gonzalez, J., & Cushing, R. (2023). cffinit (Version 2.3.1) [Computer software]. https://github.com/citation-file-format/cff-initializer-javascript
 - Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Simone Leo, Luca Pireddu, Laura Rodríguez-Navas, José Mª Fernández, Salvador Capella-Gutierrez, Hervé Ménager, Björn Grüning, Beatriz Serrano-Solano, Philip Ewels, & Frederik Coppens. (2021). Implementing FAIR Digital Objects in the EOSC-Life Workflow Collaboratory. Zenodo. https://doi.org/10.5281/zenodo.4605654
+- Jon Ison and others, Tools and data services registry: a community effort to document bioinformatics resources, Nucleic Acids Research, Volume 44, Issue D1, 4 January 2016, Pages D38–D47, https://doi.org/10.1093/nar/gkv1116
 - Matthew B. Jones, Carl Boettiger, Abby Cabunoc Mayes, Arfon Smith, Peter Slaughter, Kyle Niemeyer, Yolanda Gil, Martin Fenner, Krzysztof Nowak, Mark Hahnel, Luke Coy, Alice Allen, Mercè Crosas, Ashley Sands, Neil Chue Hong, Patricia Cruse, Daniel S. Katz, Carole Goble. 2017. CodeMeta: an exchange schema for software metadata. Version 2.0. KNB Data Repository. doi:10.5063/schema/codemeta-2.0
+- O'Connor BD, Yuen D, Chung V et al. The Dockstore: enabling modular, community-focused sharing of Docker-based genomics tools and workflows [version 1; peer review: 2 approved]. F1000Research 2017, 6:52 (https://doi.org/10.12688/f1000research.10137.1) 
 

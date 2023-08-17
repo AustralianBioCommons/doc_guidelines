@@ -3,8 +3,11 @@
 
   - [Description](#description)
   - [Diagram](#diagram)
+  - [How to cite this workflow](#how-to-cite-this-workflow)
   - [User guide](#user-guide)
       - [Quick start guide](#quick-start-guide)
+      - [Install instructions](#install-instructions)
+      - [Dependencies](#dependencies)
       - [Required (minimum)
         inputs/parameters](#required-minimum-inputsparameters)
       - [Infrastructure usage and
@@ -29,6 +32,9 @@
 ## Diagram
 
 Logical visual description of processing steps for workflow
+
+
+## How to cite this workflow
 
 
 ## User guide
