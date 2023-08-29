@@ -9,12 +9,11 @@
       - [Quick start guide](#quick-start-guide)
       - [Required (minimum)
         inputs/parameters](#required-minimum-inputsparameters)
-      - [Third party tools / dependencies](#third-party-tools--dependencies)
-      - [Infrastructure usage and
-        recommendations](#infrastructure-usage-and-recommendations)
-      - [Compute resource usage across tested
+      - [Dependencies & third party tools](#dependencies--third-party-tools)
+      - [Recommendations for use on specific compute systems](#recommendations-for-use-on-specific-compute-systems)
+      - [Compute resource usage on tested
         infrastructures](#compute-resource-usage-across-tested-infrastructures)
-      - [Benchmarking](#benchmarking)
+      - [Benchmarking (compute resource usage on tested infrastructures)](#benchmarking--compute-resource-usage-on-tested-infrastructures-)
   - [Additional notes](#additional-notes)
   - [Help/FAQ/Troubleshooting](#helpfaqtroubleshooting)
   - [3rd party Tutorials](#3rd-party-tutorials)
@@ -43,6 +42,8 @@
 
 ## How to cite this software
 
+> Add citation instructions here.
+
 
 ## User guide
 
@@ -51,7 +52,7 @@
 
 > General installation guide.
 
-> If there are different installation requirements based on infrastructures you could indicate these here, or in the individual infrastructure documentation template: https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructure_optimisation.md
+> If there are different installation requirements for specific compute infrastructures you could indicate these here, or in an individual infrastructure documentation template: https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructure_optimisation.md
 
 
 ### Quick start guide
@@ -64,32 +65,34 @@
 > The minimum inputs required for the workflow to run.
 
 
-### Third party tools / dependencies
+### Dependencies & third party tools 
 
 > Add / list known dependencies, or link to a list of these dependencies.
 
 
-### Infrastructure usage and recommendations
+### Recommendations for use on specific compute systems
 
 > You could include:
-> + a link to installation instructions for each computational infrastructure 
-> + recommendations for use on a specific computational infrastructure
+> + a link to installation instructions for each computational infrastructure, if the requirements for each system are unique 
+> + recommendations for use on a specific computational infrastructure or system
 
-> Documentation for a specific infrastructure should go into a infrastructure documentation template https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructure_optimisation.md
-
-
-### Compute resource usage across tested infrastructures
-
-> Table with high level compute resource usage information for standalone runs or testing of specific versions on specific computational infrastructures.
-
-| Tool | Version | Sample description | Wall time | Cores | Peak RAM in GB (requested) | Drive (GB) | Compute system (e.g. Pawsey Setonix HPC, AWS) | Scheduler | Year-Month |
-| ----- | ------- | ------------------ | --------- | ----- | -------------------------- | ---------- | ------- | --------- | ---------- |
-|       |         |                    |           |       |                            |            |         |           |            |
+> Documentation for a specific infrastructure could also go into a infrastructure documentation template https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructure_optimisation.md
 
 
-### Benchmarking
+### Benchmarking (compute resource usage on tested infrastructures)
 
-> Benchmarking for a specific infrastructure should go here: if this document is complicated it should go into a benchmarking template, or be provided elsewhere (e.g. Zenodo).
+> Minimal information to include here:
+> - Max threads
+> - Peak ram used
+> - Operating system compatibility
+
+> Benchmarking for a specific infrastructure could also go here: if the benchmarking information is complicated it could go into a benchmarking template, or be provided elsewhere (e.g. Zenodo).
+
+> Example table with high level compute resource usage information for standalone runs or testing of specific versions on specific computational infrastructures.
+
+| Tool | Version | Sample description | Wall time | Cores | Peak RAM usage | Total size of all files (GB) | Compute system (e.g. Pawsey Setonix HPC, AWS) | Scheduler | Year-Month |
+| ----- | ------- | ------------------ | --------- | ----- | -------------------------- |------------------------------| ------- | --------- | ---------- |
+|       |         |                    |           |       |                            |                              |         |           |            |
 
 
 ## Additional notes
@@ -103,7 +106,7 @@
 ## 3rd party Tutorials 
 
 
-## License(s)
+## [License(s)](../LICENSE.md)
 
 
 ## Acknowledgements / citations / credits

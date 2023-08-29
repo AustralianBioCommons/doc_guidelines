@@ -3,7 +3,9 @@
 ### This is an example CITATION.cff file completed for the documentation guidelines template repository ###
 ###########################################################################################################
 ### You can create your own using the blank template provided at the bottom of this file"
-### Simply remove the "#" and complete each field provided: for more information please see Druskat, S., Spaaks, J. H., Chue Hong, N., Haines, R., Baker, J., Bliven, S., Willighagen, E., Pérez-Suárez, D., & Konovalov, O. (2021). Citation File Format (Version 1.2.0) [Computer software]. https://doi.org/10.5281/zenodo.5171937
+### Simply
+#### 1. Delete the existing content (from line 10 - 46)
+#### 2. Remove the "#" from the blank template (lines 53 - 62) and complete each field provided: for more information please see Druskat, S., Spaaks, J. H., Chue Hong, N., Haines, R., Baker, J., Bliven, S., Willighagen, E., Pérez-Suárez, D., & Konovalov, O. (2021). Citation File Format (Version 1.2.0) [Computer software]. https://doi.org/10.5281/zenodo.5171937
 
 cff-version: 1.5.0
 message: "If you use these documentation guidelines, please cite as below."
