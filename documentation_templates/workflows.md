@@ -3,15 +3,17 @@
 
   - [Description](#description)
   - [Diagram](#diagram)
+  - [How to cite this workflow](#how-to-cite-this-workflow)
   - [User guide](#user-guide)
       - [Quick start guide](#quick-start-guide)
+      - [Install instructions](#install)
+      - [Dependencies & third party tools](#dependencies--third-party-tools)
       - [Required (minimum)
         inputs/parameters](#required-minimum-inputsparameters)
-      - [Infrastructure usage and
-        recommendations](#infrastructure-usage-and-recommendations)
-      - [Compute resource usage across tested
+      - [Recommendations for use on specific compute systems](#recommendations-for-use-on-specific-compute-systems)
+      - [Compute resource usage on tested
         infrastructures](#compute-resource-usage-across-tested-infrastructures)
-      - [Benchmarking](#benchmarking)
+      - [Benchmarking (compute resource usage on tested infrastructures)](#benchmarking--compute-resource-usage-on-tested-infrastructures-)
   - [Additional notes](#additional-notes)
   - [Help/FAQ/Troubleshooting](#helpfaqtroubleshooting)
   - [3rd party Tutorials](#3rd-party-tutorials)
@@ -31,6 +33,11 @@
 Logical visual description of processing steps for workflow
 
 
+## How to cite this workflow
+
+> Add citation instructions here.
+
+
 ## User guide
 
 
@@ -39,10 +46,14 @@ Logical visual description of processing steps for workflow
 > General guide for deployment across multiple infrastructures (distinct from specific infrastructure quick start guide)
 
 
-### Install instructions
+### Install
+
+> General installation guide.
+
+> If there are different installation requirements for specific compute infrastructures you could indicate these here, or in an individual infrastructure documentation template: https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructure_optimisation.md
 
 
-### Dependencies
+### Dependencies & third party tools
 
 
 ### Required (minimum) inputs/parameters
@@ -50,7 +61,7 @@ Logical visual description of processing steps for workflow
 > The minimum inputs required for the workflow to run.
 
 
-### Infrastructure usage and recommendations
+### Recommendations for use on specific compute systems
 
 > + link to installation instructions for each infrastructure 
 > + recommendations
@@ -59,16 +70,14 @@ Logical visual description of processing steps for workflow
 https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructure_optimisation.md
 
 
-### Compute resource usage across tested infrastructures
+### Benchmarking (compute resource usage on tested infrastructures)
 
 > Table with high level compute resource usage information for standalone runs or testing of specific versions on specific computational infrastructures.
 
-| Title | Version | Sample description | Wall time | Cores | Peak RAM in GB (requested) | Drive (GB) | Compute system (e.g. Pawsey Setonix HPC, AWS) |  Scheduler | Year-Month |
+| Title | Version | Sample description | Wall time | Cores | Peak RAM usage | Total size of all files (GB) | Compute system (e.g. Pawsey Setonix HPC, AWS) |  Scheduler | Year-Month |
 | ----- | ------- | ------------------ | --------- | ----- | -------------------------- | ---------- | ------- | --------- | ---------- |
 |       |         |                    |           |       |                            |            |         |           |           |
 
-
-### Benchmarking
 
 > Benchmarking for a specific infrastructure should go here: if this document is complicated it should go into a benchmarking template, or be provided elsewhere (e.g. Zenodo). 
 
@@ -82,7 +91,7 @@ https://github.com/AustralianBioCommons/doc_guidelines/blob/master/infrastructur
 ## 3rd party Tutorials 
 
 
-## License(s)
+## [License(s)](../LICENSE.md)
 
 
 ## Acknowledgements/citations/credits

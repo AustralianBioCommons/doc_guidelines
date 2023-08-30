@@ -19,6 +19,8 @@ Details of the changes made since the last version
 - Added more instructions to individual files (`CITATION.cff`, `licence` etc.)
 - When using the guidelines as a template, the `README.md` should now be deleted when ready, and a replacement selected from the `documentation_templates` repository.
 - Add example `codemeta.json`
+- Update `workflows.md` structure and content (add install, dependencies)
+- Update `tools.md` structure and content
 
 
 ## v1.4 (first official release)

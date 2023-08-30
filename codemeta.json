@@ -103,6 +103,15 @@
                 "@type": "Organization",
                 "name": "University of Sydney"
             }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Ziad",
+            "familyName": "Al Bkhetan",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Australian BioCommons, University of Melbourne"
+            }
         }
     ]
 }
