@@ -14,11 +14,7 @@ This repository allows anyone to create simple boilerplate documentation for any
 You can use this repository as:
 
 1. A **base template** for a new GitHub repository. 
-2. A **source of templates or ideas** that you can use in your existing repositories. 
-
-> **If you use these guidelines, please cite this work :)**
-> 
-> Gustafsson, J., Davis, B., de la Pierre, M., Stott, A., Beecroft, S., Downton, M., Edwards, R., Chew, T., Samaha, G., & Al Bkhetan, Z. (2023). Australian BioCommons Documentation Guidelines (Version 1.5.0) [Computer software]
+2. A **source of templates or ideas** that you can use in your existing repositories.
 
 
 ## Quick start guide (using repository as a template)
@@ -30,67 +26,8 @@ You can use this repository as:
 5. Delete elements you do not require (`documentation_templates` directory, original `README.md`)
 
 
-## Usage guide
+## See the [How-to Guide]() for detailed instructions
 
-When your documentation is ready, this README file should be deleted and replaced with either:
-- A suitable template from the `documentation_templates/` directory, or 
-- A custom `README`. You can create custom content easily @ https://readme.so/.
-
-
-### 1. Replace the repository `README.md`
-
-A README.md is the explainer file for your software or project. 
-
-If you have cloned / copied this repository, you need to replace this README with either: 
-
-1. One of the templates from the `documentation templates` directory:
-   1. Rename the template documentation file to `README.md`,
-   2. Move the file into the root directory of the repository,
-   3. Complete the necessary sections of the template, and 
-   4. Delete the other headings
-
-2. Create your own custom README content @ https://readme.so/
-
-These are the current templates that are available in `documentation_templates/`:
-- `tools.md`: template for documenting software tools.
-- `workflows.md`: template for documenting computational workflows.
-- `infrastructure_optimisation.md`: template for documenting software optimisation required for specific compute infrastructures (cloud, HPC, other).
-- `benchmarking.md`: template for documenting benchmarking outcomes for software.
-
-
-### 2. Update the recommended files
-
-The files that we recommend you always include are detailed below.
-
-| File | Purpose  | What you need to do!                                                                                                                                                                                                                                            |
-|------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|LICENSE.md| The license that indicates how someone can reuse your software or project. | Select a license (https://choosealicense.com/) and copy the license text into this file.                                                                                                                                                                        |
-|CHANGE_LOG.md| A log of the changes made for each version / release. | Update this file when you make changes to your software or project.                                                                                                                                                                                             |
-|CITATION.cff| A standard file type that indicates how someone should cite your software or project. | Update this file with the citation metadata for your software or project. GitHub will auto-detect this file and create a citation export option for you. You can easily generate your own `CITATION.cff` using this resource https://citation-file-format.github.io/cff-initializer-javascript/#/ |
-
-
-### 3. Update the optional but useful file(s)
-
-This folder contains useful files that you can include in your repository.
-
-- `codemeta.json`: this is a standard metadata file type from the [CodeMeta Project](https://codemeta.github.io/). You can easily generate your own `codemeta.json` using this resource: https://codemeta.github.io/create/
-
-
-### 4. Delete files and directories you do not need
-
-These are guidelines only, and that means you can modify, update or delete elements of the file and directory structure to suit your specific use case.
-
-
-### 5. Register your software
-
-Below are some suggestions for where to register, based on the type of software you have created.
-
-#### Tools
-- [bio.tools](https://bio.tools/)
-
-#### Workflows
-- [WorkflowHub](https://workflowhub.eu/)
-- [Dockstore](https://dockstore.org/)
 
 ## Citing this repository
 
