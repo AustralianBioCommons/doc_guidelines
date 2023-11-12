@@ -19,20 +19,20 @@ You can use this repository as:
 
 ## Quick start guide (using repository as a template)
 
-1. Clone repository and use it as a template for a new repository
-2. Replace `README.md` with one of the files available in the `documentation_templates` directory, or create your own custom README here: https://readme.so/
+1. Fork the template to reuse it for a new repository
+2. Replace the `README.md` with one of the files available in the `documentation_templates` directory, or create your own custom README here: https://readme.so/
 3. Update the recommended files, if the required information is available (`LICENSE`, `CHANGE_LOG` and `CITATION.CFF`)
 4. Update, or delete, the optional files (i.e. `codemeta.json`)
 5. Delete elements you do not require (`documentation_templates` directory, original `README.md`)
 
 
-## See the [How-to Guide]() for detailed instructions
+## See the [How-to Guide](https://australianbiocommons.github.io/how-to-doc-guidelines/guide) for detailed instructions
 
 
 ## Citing this repository
 
-> If you use this template repository, or any of its documentation elements, please use the following citation:
-> 
+If you use this template repository, or any of its documentation elements, please use the following citation:
+ 
 > Gustafsson, J., Davis, B., de la Pierre, M., Stott, A., Beecroft, S., Downton, M., Edwards, R., Chew, T., Samaha, G., & Al Bkhetan, Z. (2023). Australian BioCommons Documentation Guidelines (Version 1.5.0) [Computer software]
 
 
@@ -40,7 +40,7 @@ You can use this repository as:
 
 Anyone is welcome to contribute to these documentation guidelines in the following ways: 
 
-1. Create an issue, or
+1. Create an [issue](https://github.com/AustralianBioCommons/doc_guidelines/issues), or
 2. Create a new branch of the repository and generate a pull request (PR)
 
 > If you have contributed, please also add your name to the section below!
