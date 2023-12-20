@@ -17,7 +17,7 @@ You can use this repository as:
 2. A **source of templates or ideas** that you can use in your existing repositories.
 
 
-## Quick start guide (using repository as a template)
+## Quick start guide
 
 1. Fork the template to reuse it for a new repository
 2. Replace the `README.md` with one of the files available in the `documentation_templates` directory, or create your own custom README here: https://readme.so/
