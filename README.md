@@ -3,7 +3,7 @@ Bioinformatics software documentation guidelines
 
 ## Description
 
-This repository allows anyone to create simple boilerplate documentation for any bioinformatics software, using guidelines that have been co-created by the Australian BioCommons and members of the community.
+This repository allows anyone to create simple boilerplate documentation for any bioinformatics software, using guidelines that have been co-created by Australian BioCommons and members of the community.
 
 - This template repository contains a set of guidelines for documenting bioinformatics software (e.g. tools and workflows).
 - The initial guideline version uploaded to GitHub was informed by current documentation practices and structures used in the GitHub community.
@@ -48,9 +48,9 @@ Anyone is welcome to contribute to these documentation guidelines in the followi
 
 # Acknowledgements & attributions
 
-The documentation guidelines template repository is supported by the Australian BioCommons via Bioplatforms Australia funding, the Australian Research Data Commons (https://doi.org/10.47486/PL105) and the Queensland Government RICF programme. Bioplatforms Australia and the Australian Research Data Commons are enabled by the National Collaborative Research Infrastructure Strategy (NCRIS).
+The documentation guidelines template repository is supported by Australian BioCommons via Bioplatforms Australia funding and the Queensland Government RICF programme. Establishment of the repositoy was also supported by the Australian Research Data Commons (https://doi.org/10.47486/PL105) as part of the [BioCommons BYOD Expansion Project](https://www.biocommons.org.au/byo-data-platform-expansion). Bioplatforms Australia and the Australian Research Data Commons are enabled by the National Collaborative Research Infrastructure Strategy (NCRIS).
 
-The BioCommons would also like to acknowledge the contributions of the following individuals and institutions to these documentation guidelines:
+BioCommons would also like to acknowledge the contributions of the following individuals and institutions to these documentation guidelines:
 
 - **Johan Gustafsson** (Australian BioCommons, University of Melbourne) [@supernord](https://github.com/supernord)
 - **Brian Davis** (National Computational Infrastructure) [@Davisclan](https://github.com/Davisclan)
